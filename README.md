@@ -17,4 +17,4 @@ Materials for the second part of AAISS 2020 GAN workshop
 
 # Survey
 
-Please tell me your feedback about the second part of the workshop: [Link] (https://forms.gle/5eGJmChCKLV7zzmU8)
+Please tell me your feedback about the second part of the workshop: [Link](https://forms.gle/5eGJmChCKLV7zzmU8)
